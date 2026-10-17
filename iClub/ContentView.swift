@@ -28,7 +28,6 @@ struct ContentView: View {
                     .font(.largeTitle.bold())
                 Text("Every club event on campus, one place.")
                     .foregroundColor(.gray)
-//                Spacer()
                 ZStack{
                     Rectangle()
                         .foregroundStyle(Color.white)
